@@ -5,7 +5,6 @@ namespace TBoxDbFilter;
 /**
  * Description of DbFilter
  *
- * @author Alex
  */
 use Zend\Db\Adapter\Adapter;
 use Zend\Db\Sql\Select;

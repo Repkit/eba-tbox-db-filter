@@ -1,10 +1,7 @@
 <?php
 
 namespace TBoxDbFilter\Interfaces;
-/**
- *
- * @author Alex
- */
+
 interface DbFilterInterface
 {
 	/**
